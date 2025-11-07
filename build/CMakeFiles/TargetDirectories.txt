@@ -1,4 +1,0 @@
-D:/calculator/build/CMakeFiles/calc.dir
-D:/calculator/build/CMakeFiles/calculator.dir
-D:/calculator/build/CMakeFiles/edit_cache.dir
-D:/calculator/build/CMakeFiles/rebuild_cache.dir
